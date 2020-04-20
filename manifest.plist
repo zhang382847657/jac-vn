@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zhang382847657/jac-vn/master/jac_owner_driver.ipa</string>
+					<string>http://jac.jsapp.vllcp.com:8080/jac_h5/jac_owner_driver.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zhang382847657/jac-vn/master/logo57.png</string>
+					<string>http://jac.jsapp.vllcp.com:8080/jac_h5/logo57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/zhang382847657/jac-vn/master/logo512.png</string>
+					<string>http://jac.jsapp.vllcp.com:8080/jac_h5/logo512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
